@@ -1,4 +1,4 @@
-# Instalación de K3S
+# Instalación de K3S via Vagrant
 
 ## Requerimientos
 
